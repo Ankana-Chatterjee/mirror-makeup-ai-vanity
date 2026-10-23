@@ -1,0 +1,6 @@
+{
+  "name": "Mirror Makeup — AI AR Smart Vanity & Custom Cosmetic Dispensary",
+  "description": "An AI-powered smart beauty mirror device featuring real-time reflection analysis, hooded eye stencils, under-eye color correction, virtual lipstick try-on, and custom pigment dispensary for foundation, concealer, and lips.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

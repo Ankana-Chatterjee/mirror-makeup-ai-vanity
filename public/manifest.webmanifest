@@ -1,0 +1,16 @@
+{
+  "name": "Mirror Makeup — AI AR Smart Mirror & Cosmetic Dispensary",
+  "short_name": "MirrorMakeup",
+  "description": "AI-powered smart mirror and beauty assistant with real-time AR stencils, anti-cake dosage guides, and global brand shade matching.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#0c0a09",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
